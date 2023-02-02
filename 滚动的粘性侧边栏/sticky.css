@@ -1,0 +1,26 @@
+
+    body{
+        display: flex;
+    }
+.main{
+    width: 30%;
+    margin: 20px;
+}
+.sideBar{
+    width: 20%;
+    margin: 20px;
+}
+.main div{
+    width: 100%;
+    height: 200px;
+    background: linear-gradient(45deg,#feeeab 0%,#fb7eb3 60%);
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.sideBar .content-wrapper div{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    background: linear-gradient(45deg,#8fd0ff 0%,#79ebe0 60%);
+    margin-bottom: 20px;
+}
